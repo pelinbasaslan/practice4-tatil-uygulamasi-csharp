@@ -1,0 +1,15 @@
+# obj ve bin klasörlerini yoksay
+/bin/
+/obj/
+
+# Visual Studio'nun geçici dosyaları
+.vs/
+.vscode/
+
+# Kullanıcıya özel dosyalar (özellikle Windows ve macOS)
+.DS_Store
+Thumbs.db
+
+# .NET Core ve .NET Framework projelerinin çıkarılabilir dosyaları
+project.lock.json
+project.fragment.lock.json
