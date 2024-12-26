@@ -1,6 +1,10 @@
 # obj ve bin klasörlerini yoksay
 /bin/
 /obj/
+/practice4-tatil-uygulaması-csharp/bin/
+/./practice4-tatil-uygulaması-csharp/bin/
+/practice4-tatil-uygulaması-csharp/obj/
+/./practice4-tatil-uygulaması-csharp/obj/
 
 # Visual Studio'nun geçici dosyaları
 .vs/
